@@ -2,8 +2,8 @@
 
 /**
  * _pow_recursion - function that returns tha value of x raised to powre of y
- * @x: value to be raised in power
- * @y: times to multiply value 
+ * @x: the value to multiply
+ * @y: the times to multiply value 
  *
  * Return: Always 0
  */
